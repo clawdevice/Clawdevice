@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-02-21",
+    "title": "Intro to Transformers",
+    "time": "3:30 – 4:30 PM",
+    "location": "Room 214",
+    "tag": "workshop",
+    "description": "Fast primer on attention, then we fine-tune a mini language model together."
+  },
+  {
+    "date": "2026-02-28",
+    "title": "Hack Night: AI + Art",
+    "time": "3:30 – 5:00 PM",
+    "location": "Innovation Lab",
+    "tag": "build",
+    "description": "Bring your laptops—we'll pair up and ship a generative art experiment."
+  },
+  {
+    "date": "2026-03-06",
+    "title": "Competition Prep",
+    "time": "Lunch",
+    "location": "Room 110",
+    "tag": "prep",
+    "description": "Walk through last year's Kaggle-style challenge and share strategies."
+  }
+]

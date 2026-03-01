@@ -1,0 +1,12 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="10" width="100" height="100" rx="20" fill="#04050A" stroke="url(#grad)" stroke-width="3"/>
+  <path d="M35 60C35 45.0883 47.0883 33 62 33C76.9117 33 89 45.0883 89 60C89 74.9117 76.9117 87 62 87" stroke="#51C4FF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M55 44L77 60L55 76" stroke="#D268FF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="60" y="102" text-anchor="middle" font-family="'Space Grotesk', 'Segoe UI', sans-serif" font-size="16" fill="#f4f6ff" letter-spacing="0.2em">BSS AI</text>
+  <defs>
+    <linearGradient id="grad" x1="10" y1="10" x2="110" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#51C4FF"/>
+      <stop offset="1" stop-color="#D268FF"/>
+    </linearGradient>
+  </defs>
+</svg>
